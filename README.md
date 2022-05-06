@@ -8,7 +8,7 @@ This is Git exercise for practice.
 
 ├── README.md          <- The top-level README for developers using this project.
 │   
-├── docs               <-  project docs - GIT.dosx; 
+├── docs               <-  project docs - GIT.docx; 
 │
 ├── screenshots        <- This folder contain screenshots for this project repo
 │
