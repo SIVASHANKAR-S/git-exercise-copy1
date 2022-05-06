@@ -2,6 +2,20 @@
 
 This is Git exercise for practice.
 
+
+# Project Structure
+```
+
+├── README.md          <- The top-level README for developers using this project.
+│   
+├── docs               <-  project docs - GIT.dosx; 
+│
+├── screenshots        <- This folder contain screenshots for this project repo
+│
+├── siva               <- Contains siva.txt file
+
+```
+
 ##  Main Git Commands used for this project
 
 ```
